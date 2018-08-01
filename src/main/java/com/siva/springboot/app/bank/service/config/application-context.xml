@@ -6,5 +6,5 @@
 		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.3.xsd">
 
 	<context:component-scan
-		base-package="com.javatechie.app.bank.service.*" />
+		base-package="com.siva.springboot.app.bank.service.*" />
 </beans>
